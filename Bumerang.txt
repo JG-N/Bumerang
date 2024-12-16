@@ -1,4 +1,4 @@
-Bumerang
+git commit -m "Zeilen 1-Bumerang
 
 War einmal ein Bumerang;
 War ein weniges zu lang.
